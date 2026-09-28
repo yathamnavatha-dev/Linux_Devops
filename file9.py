@@ -1,1 +1,1 @@
-manager em pedathadu
+sudo system
