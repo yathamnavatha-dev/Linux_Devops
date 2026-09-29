@@ -1,2 +1,1 @@
-my name is navatha
-btech
+i am a girl abc
