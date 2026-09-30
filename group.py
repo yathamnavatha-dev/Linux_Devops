@@ -1,1 +1,5 @@
-i am sleepinggggg
+apple 
+banana
+cat
+dog
+eating
